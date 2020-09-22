@@ -30,7 +30,7 @@
 日本語や機械学習・深層学習の勉強しています。
 
 ### [MSEAS](http://mseas.mit.edu/)、研究補助員（2013　ー 2016)
-MITの研究室。Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
+Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
 
 数値流体力学
 
@@ -47,7 +47,7 @@ methods for the unsteady incompressible Navier–Stokes equations. Journal of Co
 Physics, 373, pp. 940-974.
 
 
-### 機械工学科、MIT、Cambridge、MA (2015)
+### 機械工学科、MIT (2015)
 教育補助員
 
 米国では、院生の研究者は学費及び給料を先生に払ってもまいます。税金も納付しますし、本当の仕事です。
