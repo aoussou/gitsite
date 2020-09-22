@@ -29,7 +29,7 @@
 
 日本語や機械学習・深層学習の勉強しています。
 
-### [MSEAS](http://mseas.mit.edu/)、研究補助員（2013　ー 2016)
+### [MSEAS](http://mseas.mit.edu/)、研究補助員（2013 ー 2016)
 Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
 
 数値流体力学
@@ -92,8 +92,6 @@ API: Flask、AWS EC2
 1. 何で日本に来た？アニメ？
 
 2. 何で大企業に勤めてみない？
-
-
 
 3.　連絡撮ったら、英語がいい？
 
