@@ -40,12 +40,19 @@ MSEAS、MIT、Cambridge、MA
 数値流体力学研究補助員
 2013 – 2016
 • 非定常非圧縮性粘性流の反復時間積分法の数学的性質の分析
+
 • 空間離散化と無関係に実装できる数値計算アルゴリズムを考案
+
 • そのアルゴリズムをラッパー関数として実装
+
 • 本研究の見所は積分法の本質的誤差限界に基づいて停止条件を導いたこと
+
 出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). Iterated pressure-correction projection
 methods for the unsteady incompressible Navier–Stokes equations. Journal of Computational
 Physics, 373, pp. 940-974.
+
+#　教育
+
 機械工学科、MIT、Cambridge、MA
 教育補助員
 機械工学のため計算理工学
