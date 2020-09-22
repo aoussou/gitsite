@@ -76,11 +76,10 @@ API: Flask、AWS EC2
 中級: 日本語 (読み書き含め可)
 
 # 教育
-## Massachusetts Institute of Technology, Cambridge, MA, USA（2016卒）
+### Massachusetts Institute of Technology, Cambridge, MA, USA（2016卒）
 計算理工学修士(理学)
 
-
-## Imperial College London, London, United Kingdom（2012）
+### Imperial College London, London, United Kingdom（2012）
 土木環境工学修士(工学)
 
 
