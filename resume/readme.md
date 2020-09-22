@@ -19,7 +19,7 @@
 
 
 ## [株式会社Sapeet](https://about.sapeet.com/)（2018.2 ー 2019.2）
-機械学習エンジニア
+### 機械学習エンジニア
 
 「サピート」と読みます。PKSHA Technologyの子会社になっています。主なコンピュータビジョンしていましたが、
 
@@ -30,8 +30,9 @@
 
 日本語や機械学習・深層学習の勉強しています。
 
-### [MSEAS](http://mseas.mit.edu/)（2013 ー 2016)
-研究補助員
+## [MSEAS](http://mseas.mit.edu/)（2013 ー 2016)
+### 研究補助員
+
 Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
 
 数値流体力学
