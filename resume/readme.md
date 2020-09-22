@@ -50,6 +50,11 @@ Physics, 373, pp. 940-974.
 ### 機械工学科、MIT (2015)
 教育補助員
 
+機械工学のため計算理工学
+教育
+fall 2015
+
+
 米国では、院生の研究者は学費及び給料を先生に払ってもまいます。税金も納付しますし、本当の仕事です。
 学費は年には
 
@@ -70,17 +75,12 @@ API: Flask、AWS EC2
 流暢: 英語、フランス語
 中級: 日本語 (読み書き含め可)
 
-#　教育
-
-機械工学のため計算理工学
-教育
-fall 2015
-
-Massachusetts Institute of Technology, Cambridge, MA, USA
+### 教育
+## Massachusetts Institute of Technology, Cambridge, MA, USA（2016卒）
 計算理工学修士(理学)
-2016
 
-Imperial College London, London, United Kingdom
+
+## Imperial College London, London, United Kingdom（2012）
 土木環境工学修士(工学)
 
 
