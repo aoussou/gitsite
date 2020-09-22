@@ -65,9 +65,13 @@ fall 2015
 
 # 技術スキル
 プログラミング言語: Python(流暢)、C++(基本)
+
 深層学習ライブラリ: PyTorch(流暢)、Keras(流暢)、TensorFlow(熟練)
+
 画像処理: OpenCV
+
 自然言語処理: MeCab (形態素解析エンジン)
+
 API: Flask、AWS EC2
 
 # 他
