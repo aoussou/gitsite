@@ -1,6 +1,6 @@
 <p align="center"> 職務経歴書 </p>
 
-### 職務経験
+# 職務経験
 
 フリーランス機械学習エンジニア、福岡市（2019.2 ー 現在）
 
@@ -60,18 +60,19 @@ Massachusetts Institute of Technology, Cambridge, MA, USA
 Imperial College London, London, United Kingdom
 土木環境工学修士(工学)
 
-### 技術スキル
+# 技術スキル
 プログラミング言語: Python(流暢)、C++(基本)
 深層学習ライブラリ: PyTorch(流暢)、Keras(流暢)、TensorFlow(熟練)
 画像処理: OpenCV
 自然言語処理: MeCab (形態素解析エンジン)
 API: Flask、AWS EC2
 
+# 他
 言語
 流暢: 英語、フランス語
 中級: 日本語 (読み書き含め可)
 
-良く聞かれる質問：
+# 良く聞かれる質問：
 
 1. 何で日本に来た？アニメ？
 
