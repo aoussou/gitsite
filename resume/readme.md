@@ -25,17 +25,15 @@
 3D 体型モジュール開発 • コンピュータビジョンアルゴリズムの実装と改善全身画像を
 インプットし、撮影対象者の 3 次元体型データを推定・取得するアルゴリズムの作成
 
-
-###　風太郎（2016 ー 2018)
+## 風太郎（2016 ー 2018)
 
 日本語や機械学習・深層学習の勉強しています。
 
 ### [MSEAS](http://mseas.mit.edu/)、研究補助員（2013　ー 2016)
 MITの研究室。Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
 
-MSEAS、MIT、Cambridge、MA
-数値流体力学研究補助員
-2013 – 2016
+数値流体力学
+
 • 非定常非圧縮性粘性流の反復時間積分法の数学的性質の分析
 
 • 空間離散化と無関係に実装できる数値計算アルゴリズムを考案
@@ -49,6 +47,8 @@ methods for the unsteady incompressible Navier–Stokes equations. Journal of Co
 Physics, 373, pp. 940-974.
 
 
+### 機械工学科、MIT、Cambridge、MA (2015)
+教育補助員
 
 米国では、院生の研究者は学費及び給料を先生に払ってもまいます。税金も納付しますし、本当の仕事です。
 学費は年には
@@ -56,23 +56,7 @@ Physics, 373, pp. 940-974.
 日本語のレベル：
 資格は持っておりませんが、2018年に日本に引越ししてから仕事はずっと日本語コミュニケーションやっております。
 
-#　教育
 
-機械工学科、MIT、Cambridge、MA
-教育補助員
-機械工学のため計算理工学
-教育
-fall 2015
-Massachusetts Institute of Technology, Cambridge, MA, USA
-計算理工学修士(理学)
-2016
-課程概略:
-• 数値線形代数: 線型方程式系、最小二乗の問題や固有方程式のアルゴリズム
-• 数値微分方程式: 線型非線形楕円型、放物型、双曲型微分方程式、積分方程式
-• 統計的学習とデータマイニング: 理論と応用統計学、データマイニング、機械学習(回
-帰分析、クラスタ解析、分類等)
-Imperial College London, London, United Kingdom
-土木環境工学修士(工学)
 
 # 技術スキル
 プログラミング言語: Python(流暢)、C++(基本)
@@ -85,6 +69,20 @@ API: Flask、AWS EC2
 言語
 流暢: 英語、フランス語
 中級: 日本語 (読み書き含め可)
+
+#　教育
+
+機械工学のため計算理工学
+教育
+fall 2015
+
+Massachusetts Institute of Technology, Cambridge, MA, USA
+計算理工学修士(理学)
+2016
+
+Imperial College London, London, United Kingdom
+土木環境工学修士(工学)
+
 
 # 良く聞かれる質問：
 
