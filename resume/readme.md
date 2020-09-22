@@ -25,20 +25,13 @@
 3D 体型モジュール開発 • コンピュータビジョンアルゴリズムの実装と改善全身画像を
 インプットし、撮影対象者の 3 次元体型データを推定・取得するアルゴリズムの作成
 
-### [MSEAS](http://mseas.mit.edu/)、
-MITの研究室
 
-###　風太郎
+###　風太郎（2016 ー 2018)
 
-米国では、院生の研究者は学費及び給料を先生に払ってもまいます。税金も納付しますし、本当の仕事です。
-学費は年には
+日本語や機械学習・深層学習の勉強しています。
 
-日本語のレベル：
-資格は持っておりませんが、2018年に日本に引越ししてから仕事はずっと日本語コミュニケーションやっております。
-
-
-機械学習エンジニア
-2018 年 2 月 – 2019 年 2 月
+### [MSEAS](http://mseas.mit.edu/)、研究補助員（2013　ー 2016)
+MITの研究室。Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
 
 MSEAS、MIT、Cambridge、MA
 数値流体力学研究補助員
@@ -54,6 +47,14 @@ MSEAS、MIT、Cambridge、MA
 出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). Iterated pressure-correction projection
 methods for the unsteady incompressible Navier–Stokes equations. Journal of Computational
 Physics, 373, pp. 940-974.
+
+
+
+米国では、院生の研究者は学費及び給料を先生に払ってもまいます。税金も納付しますし、本当の仕事です。
+学費は年には
+
+日本語のレベル：
+資格は持っておりませんが、2018年に日本に引越ししてから仕事はずっと日本語コミュニケーションやっております。
 
 #　教育
 
