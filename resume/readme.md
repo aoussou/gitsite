@@ -18,7 +18,7 @@
 
 
 
-### [株式会社Sapeet](https://about.sapeet.com/)、機械学習エンジニア（2018.2 ー 2019.2）
+## [株式会社Sapeet](https://about.sapeet.com/)、機械学習エンジニア（2018.2 ー 2019.2）
 
 「サピート」と読みます。PKSHA Technologyの子会社になっています。主なコンピュータビジョンしていましたが、
 
