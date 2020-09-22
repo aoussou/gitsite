@@ -75,7 +75,7 @@ API: Flask、AWS EC2
 流暢: 英語、フランス語
 中級: 日本語 (読み書き含め可)
 
-### 教育
+# 教育
 ## Massachusetts Institute of Technology, Cambridge, MA, USA（2016卒）
 計算理工学修士(理学)
 
