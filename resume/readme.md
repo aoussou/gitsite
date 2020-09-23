@@ -10,7 +10,7 @@
 
 • 特徴推定:転移学習を使用し、低解像度画像より性別や年齢認識モデルの開発
 
-• 日本語音声認識:話し言葉を片仮名に変換するモデルの開発
+• 日本語音声認識:話し言葉を片仮名に変換する[モデル](https://github.com/aoussou/wav2kana/blob/master/explore.ipynb)の開発
 
 • 自然言語処理:BERT 日本語の Github にの[貢献](https://github.com/yoheikikuta/bert-japanese/blob/master/notebook/check-extract-features.ipynb)
 
