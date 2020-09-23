@@ -26,24 +26,13 @@
 3D 体型モジュール開発 • コンピュータビジョンアルゴリズムの実装と改善全身画像を
 インプットし、撮影対象者の 3 次元体型データを推定・取得するアルゴリズムの作成
 
-## 風太郎（2016 ー 2018)
-
-日本語や機械学習・深層学習の勉強しています。
-
 ## [MSEAS](http://mseas.mit.edu/)（2013 ー 2016)
 ### 研究補助員
 
-Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語ですが、意味より響きがカッコいいかもしれません。
+Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語です。
 
 数値流体力学
 
-• 非定常非圧縮性粘性流の反復時間積分法の数学的性質の分析
-
-• 空間離散化と無関係に実装できる数値計算アルゴリズムを考案
-
-• そのアルゴリズムをラッパー関数として実装
-
-• 本研究の見所は積分法の本質的誤差限界に基づいて停止条件を導いたこと
 
 出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). Iterated pressure-correction projection
 methods for the unsteady incompressible Navier–Stokes equations. Journal of Computational
