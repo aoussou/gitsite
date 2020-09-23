@@ -12,7 +12,7 @@
 
 • 日本語音声認識:話し言葉を片仮名に変換するモデルの開発
 
-• 自然言語処理:BERT 日本語の Github にの貢献
+• 自然言語処理:BERT 日本語の Github にの[貢献](https://github.com/yoheikikuta/bert-japanese/blob/master/notebook/check-extract-features.ipynb)
 
 機械学習と関係ないアルゴリズムの開発もやっております。例えば、アバターの動きのスムージング
 
