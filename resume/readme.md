@@ -34,8 +34,9 @@ Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語で�
 数値流体力学
 
 
-出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). Iterated pressure-correction projection
-methods for the unsteady incompressible Navier–Stokes equations. Journal of Computational
+出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). [Iterated pressure-correction projection
+methods for the unsteady incompressible Navier–Stokes equations
+(http://mseas.mit.edu/publications/PDF/Aoussou_et_al_JCP2018.pdf). Journal of Computational
 Physics, 373, pp. 940-974.
 
 
