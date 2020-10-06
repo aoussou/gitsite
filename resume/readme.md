@@ -16,6 +16,7 @@
 
 機械学習と関係ないアルゴリズムの開発もやっております。例えば、アバターの動きのスムージング
 <br>
+<br>
 
 
 ### [株式会社Sapeet](https://about.sapeet.com/)（2018 ー 2019）
@@ -25,6 +26,7 @@
 
 3D 体型モジュール開発 • コンピュータビジョンアルゴリズムの実装と改善全身画像を
 インプットし、撮影対象者の 3 次元体型データを推定・取得するアルゴリズムの作成
+<br>
 <br>
 
 ### [MSEAS](http://mseas.mit.edu/)（2013 ー 2016)
@@ -37,6 +39,7 @@ Multidisciplinary Simulation Estimation and Assimilation Systemsの頭字語で�
 出版物: Aoussou, J., Lin, J. and Lermusiaux, P. (2018). [Iterated pressure-correction projection
 methods for the unsteady incompressible Navier–Stokes equations](http://mseas.mit.edu/publications/PDF/Aoussou_et_al_JCP2018.pdf). Journal of Computational
 Physics, 373, pp. 940-974.
+<br>
 <br>
 
 ### [機械工学科](http://meche.mit.edu/)、MIT (2015)
