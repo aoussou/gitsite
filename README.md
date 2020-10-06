@@ -7,8 +7,8 @@
 <br>
 
 #### [履歴書はこちらへ](https://aoussou.github.io/personal/resume/) 
-
 <br>
+
 #### [ポートフォリオはこちらへ](https://aoussou.github.io/personal/portfolio/)
 
 <br>
